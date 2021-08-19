@@ -2,12 +2,8 @@
 Ludo game made using SFML library.
 For my CS 100 Project, I made a Ludo game using the sfml graphics library.
 There are 4 players, and each player has a single piece.
-Where to find the code
-Please find the main.cpp file in the following folder Ludo_24100004\code
-The project was made in Visual Studio 2019. The solution (.sln) file is in the following folder
-Ludo_24100004\Ludo.sln
-The executable file is in the following folder executable\Ludo_sumair.exe
-Ludo Rules:
+
+Ludo Rules that I implemented:
 
 - A player can only bring their piece out from their home if they get a 6
 - A player takes another turn if they get a 6
