@@ -1,0 +1,193 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (sfmlsetup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\dev\Ludo_24100004\code\main.cpp(34,808): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\dev\Ludo_24100004\code\main.cpp(35,1001): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\dev\Ludo_24100004\code\main.cpp(38,797): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\dev\Ludo_24100004\code\main.cpp(39,991): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\dev\Ludo_24100004\code\main.cpp(42,840): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\dev\Ludo_24100004\code\main.cpp(43,991): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\dev\Ludo_24100004\code\main.cpp(46,824): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\dev\Ludo_24100004\code\main.cpp(47,988): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\dev\Ludo_24100004\code\main.cpp(327,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\dev\Ludo_24100004\code\main.cpp(694,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(699,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(704,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(709,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(710,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(714,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(715,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(719,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(724,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(729,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(730,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(735,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(736,67): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(740,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(741,66): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(745,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(746,74): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(750,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(751,83): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(758,53): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\dev\Ludo_24100004\code\main.cpp(760,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(760,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(761,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(761,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(767,53): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\dev\Ludo_24100004\code\main.cpp(769,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(769,88): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(770,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(770,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(782,48): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(782,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(787,48): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(787,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(794,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(794,89): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(799,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Ludo_24100004\code\main.cpp(799,89): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 95 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  code.vcxproj -> C:\dev\Ludo_24100004\x64\Release\Ludo_sumair.exe
