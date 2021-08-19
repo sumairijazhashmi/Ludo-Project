@@ -1,5 +1,5 @@
 # Ludo-Project
-Ludo game made using SFML library.
+Ludo game in C++ made using SFML graphics library.
 For my CS 100 Project, I made a Ludo game using the sfml graphics library.
 There are 4 players, and each player has a single piece.
 
